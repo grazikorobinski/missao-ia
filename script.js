@@ -5,40 +5,40 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "Qual é uma das principais causas do desemprego estrutural no mercado atual?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "A automação de processos, a digitalização e a incompatibilidade entre a formação técnica dos trabalhadores e as novas exigências tecnológicas.",
+                afirmacao: "Você é uma pessoa analítica e atenta aos fatos. Costuma observar os problemas sociais a partir de dados, mudanças tecnológicas e dinâmicas do mercado global, buscando compreender o cenário de forma ampla e objetiva.",
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                texto:  "A existência de leis trabalhistas, pois garantir direitos aos trabalhadores é o único fator real que impede os empresários de contratar.",
+                afirmacao: "Você é uma pessoa pragmática e crítica em relação à burocracia. Tende a focar na liberdade de negociação e acredita que regras estatais em excesso atrapalham a economia e a criação de novas oportunidades.",
             }    
            
         ]
     },
     {
        
-            enunciado: "As fontes renováveis de energia são aquelas formas de produção de energia em que suas fontes são capazes de manter-se disponíveis durante um longo prazo, contando com recursos que se regeneram ou que se mantêm ativos permanentemente. Com base nisso, temos a energia geotérmica, que consiste em utilizar o calor manifestado em áreas próximas à superfície. Qual a sua opinião sobre esse modelo de energia renovável?",
+            enunciado: "De que maneira a desigualdade social afeta o acesso à educação de qualidade?",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Famílias de menor renda enfrentam barreiras financeiras e infraestrutura comunitária precária, o que limita o acesso a recursos pedagógicos e oportunidades de desenvolvimento.",
+                    afirmacao: "Você é uma pessoa empática e observadora do contexto social. Leva em consideração as diferentes realidades de vida e entende que o ponto de partida das pessoas influencia diretamente suas oportunidades de crescimento.",
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "A desigualdade social não interfere na educação, pois o sucesso nos estudos depende exclusivamente do esforço e da força de vontade de cada aluno.",
+                    afirmacao: "Você é uma pessoa focada na determinação e no mérito individual. Acredita no potencial de superação do ser humano e defende que o compromisso pessoal é a chave para vencer qualquer tipo de adversidade.",
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Como o desemprego de longa duração impacta a desigualdade social?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
+                    texto: "Ele compromete a renda contínua das famílias vulneráveis, força a redução de gastos essenciais e paralisa a mobilidade social, ampliando o abismo entre classes.
                     afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
                 },
                 {
