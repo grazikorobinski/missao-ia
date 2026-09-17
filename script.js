@@ -39,12 +39,12 @@ const perguntas = [
             alternativas: [
                 {
                     texto: "Ele compromete a renda contínua das famílias vulneráveis, força a redução de gastos essenciais e paralisa a mobilidade social, ampliando o abismo entre classes.
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    afirmacao: "Você é uma pessoa reflexiva e focada nos impactos sociais de longo prazo. Preocupa-se com o bem-estar coletivo e analisa como a estabilidade financeira é fundamental para a dignidade e segurança das famílias."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "O desemprego prolongado é positivo para a economia, pois obriga as pessoas a saírem da zona de conforto e se tornarem empreendedoras de sucesso.",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: " Você é uma pessoa otimista e voltada para a ação imediata. Vê as dificuldades como oportunidades de reinvenção e acredita fortemente na capacidade de iniciativa própria para buscar alternativas diante das crises."
                 }    
                
             ]
