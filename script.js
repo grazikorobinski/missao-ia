@@ -50,7 +50,7 @@ const perguntas = [
                 {
                     texto:    "O desemprego prolongado é positivo para a economia, pois obriga as pessoas a saírem da zona de conforto e se tornarem empreendedoras de sucesso.",
                
-                    afirmacao: " Você é uma pessoa otimista e voltada para a ação imediata. Vê as dificuldades como oportunidades de reinvenção e acredita fortemente na capacidade de iniciativa própria para buscar alternativas diante das crises."
+                    afirmacao: "Você é uma pessoa otimista e voltada para a ação imediata. Vê as dificuldades como oportunidades de reinvenção e acredita fortemente na capacidade de iniciativa própria para buscar alternativas diante das crises."
                     "Você possui um perfil dinâmico e focado no futuro. Transforma adversidades em alavancas de mudança, confiando na autonomia e na atitude prática para gerar novos resultados."
                 }    
                
@@ -85,6 +85,10 @@ function respostaSelecionada(opcaoSelecionada) {
     historiaFinal += afirmacoes + " ";
     atual++
     mostraPergunta();
+}
+function aleatorio(lista) {
+    const posicao = Math.floor(Math.random()* lista.length);
+    return lista[posicao];
 }
 function mostraResultado(){
     caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
