@@ -95,7 +95,7 @@ const perguntas = [
         },
                
                     afirmacao: ["Você é uma pessoa otimista e voltada para a ação imediata. Vê as dificuldades como oportunidades de reinvenção e acredita fortemente na capacidade de iniciativa própria para buscar alternativas diante das crises.",
-                    "Você possui um perfil dinâmico e focado no futuro. Transforma adversidades em alavancas de mudança, confiando na autonomia e na atitude prática para gerar novos resultados."
+                    "Você possui um perfil dinâmico e focado no futuro. Transforma adversidades em alavancas de mudança, confiando na autonomia e na atitude prática para gerar novos resultados."]
                ]
             }    
                
