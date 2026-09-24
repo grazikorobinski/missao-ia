@@ -47,8 +47,6 @@ const perguntas = [
             ]
         },
                 {
-                    texto:    "O dconst perguntas = [
-    {
         enunciado: "Qual é uma das principais causas do desemprego estrutural no mercado atual?",
         alternativas: [
             {
