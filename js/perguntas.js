@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "Qual é uma das principais causas do desemprego estrutural no mercado atual?",
         alternativas: [
